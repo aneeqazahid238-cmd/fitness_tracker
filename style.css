@@ -1,0 +1,28 @@
+* {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+
+            nav {
+                background: #222;
+                padding: 15px 30px;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+               color: white;
+            }
+
+            nav a {
+                color: white;
+                text-decoration: none;
+                margin-left: 15px;
+            }
+
+            footer {
+                background: #222;
+                color: white;
+                text-align: center;
+                padding: 20px;
+                margin-top: 40px;
+            }     
